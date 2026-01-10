@@ -59,7 +59,6 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
     <tr>
         <td align="center"><b>Backend</b></td>
         <td>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
             <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
             <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
@@ -89,8 +88,6 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
     <tr>
         <td align="center"><b>Tools & DevOps</b></td>
         <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
             <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
