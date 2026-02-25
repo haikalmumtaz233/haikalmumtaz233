@@ -24,7 +24,7 @@
 
 Passionate **Software Engineer** and **AI Enthusiast** with professional experience in building responsive web applications and machine learning models.
 
-- 🔭 **Current Role:** Fullstack Developer at **Ruang Media Solusi**.
+- 🔭 **Current Role:** Application Developer Jr. at **PT Mitra Integrasi Informatika**.
 - 📍 **Location:** Indonesia (Open for Remote/Hybrid).
 
 ---
