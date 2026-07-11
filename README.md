@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Scientist+Associate;TensorFlow+Certified+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Application+Developer;Data+Scientist+Associate;TensorFlow+Certified+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,8 +18,6 @@
     <a href="https://instagram.com/haikal_mumtaz23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<br />
-
 ## About Me
 
 Passionate **Software Engineer** and **AI Enthusiast** with professional experience in building responsive web applications and machine learning models.
@@ -29,7 +27,7 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table align="center">
     <tr>
@@ -43,13 +41,16 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
             <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
         </td>
     </tr>
     <tr>
         <td align="center"><b>Frontend</b></td>
         <td>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
             <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
             <img src="https://img.shields.io/badge/PrimeVue-10B981?style=flat&logo=primevue&logoColor=white" />
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
@@ -63,6 +64,7 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
             <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
             <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
             <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
         </td>
     </tr>
@@ -79,6 +81,7 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
         <td align="center"><b>Data Science & AI</b></td>
         <td>
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+            <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white" />
             <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
             <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
             <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -89,6 +92,8 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
         <td align="center"><b>Tools & DevOps</b></td>
         <td>
             <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
             <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
@@ -96,8 +101,6 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
         </td>
     </tr>
 </table>
-
-<br />
 
 ---
 
