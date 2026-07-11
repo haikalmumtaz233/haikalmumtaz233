@@ -20,12 +20,12 @@
 
 <br />
 
-## 👨‍💻 About Me
+## About Me
 
 Passionate **Software Engineer** and **AI Enthusiast** with professional experience in building responsive web applications and machine learning models.
 
-- 🔭 **Current Role:** Application Developer Jr. at **PT Mitra Integrasi Informatika**.
-- 📍 **Location:** Indonesia (Open for Remote/Hybrid).
+- **Current Role:** Application Developer Jr. at **PT Mitra Integrasi Informatika**.
+- **Location:** Indonesia (Open for Remote/Hybrid).
 
 ---
 
@@ -98,12 +98,6 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
 </table>
 
 <br />
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haikalmumtaz233&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Haikal's Stats" />
-</p>
 
 ---
 
