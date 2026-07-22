@@ -6,26 +6,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Application+Developer;Data+Scientist+Associate;TensorFlow+Certified+Developer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-    <samp>
-        <a href="https://haikalmumtaz.com" target="_blank">🌐 Portfolio Website</a> | 
-        <a href="mailto:hmumtaz70@gmail.com" target="_blank">📧 Email Me</a>
-    </samp>
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/haikal-mumtaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/haikal_mumtaz23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
 ## About Me
 
 Passionate **Software Engineer** and **AI Enthusiast** with professional experience in building responsive web applications and machine learning models.
 
 - **Current Role:** Application Developer Jr. at **PT Mitra Integrasi Informatika**.
-- **Location:** Indonesia (Open for Remote/Hybrid).
-
----
+- **Location:** Jakarta, Indonesia (Open for Remote/Hybrid).
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/haikal-mumtaz/) · [Instagram](https://instagram.com/haikal_mumtaz23)
 
 ## Technical Skills
 
@@ -95,7 +82,6 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
             <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
             <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
             <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
             <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" />
         </td>
