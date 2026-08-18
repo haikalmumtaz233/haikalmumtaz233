@@ -14,7 +14,7 @@ Passionate **Software Engineer** and **AI Enthusiast** with professional experie
 - **Location:** Jakarta, Indonesia (Open for Remote/Hybrid).
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/haikal-mumtaz/) · [Instagram](https://instagram.com/haikal_mumtaz23)
 
-## Technical Skills
+## Stacks & Tools I've Used
 
 <table align="center">
     <tr>
