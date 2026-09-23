@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://haikalmumtaz.com"><img src="https://img.shields.io/badge/haikalmumtaz.com-00ADD8?style=for-the-badge" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/haikal-mumtaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/haikal_mumtaz23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=haikalmumtaz233&style=for-the-badge&color=4F46E5&label=Profile+views" alt="Profile views" />
 </p>
 
 <br />
@@ -30,7 +28,7 @@ var haikal = Engineer{
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalmumtaz233/haikalmumtaz233/main/assets/toolbox-dark.svg" />
-    <img src="https://raw.githubusercontent.com/haikalmumtaz233/haikalmumtaz233/main/assets/toolbox-light.svg" alt="Go, TypeScript, JavaScript, Java, Kotlin, Python, PHP, C++, Lua, R, Spring, Gin, Express, Laravel, FastAPI, Flask, Next.js, React, Vue, Flutter, Tailwind CSS, shadcn/ui, PrimeVue, Bootstrap, Thymeleaf, Vite, PostgreSQL, MySQL, MongoDB, Firebase, RabbitMQ, TensorFlow, Keras, scikit-learn, pandas, Ultralytics, Docker, Kubernetes, OpenShift, Jenkins, GitLab, GitHub Actions, Google Cloud, Cloudflare, Vercel, Postman, Linux, Git" />
+    <img src="https://raw.githubusercontent.com/haikalmumtaz233/haikalmumtaz233/main/assets/toolbox-light.svg" alt="Go, Java, TypeScript, Python, Kotlin, Lua, Spring Boot, Gin, FastAPI, RabbitMQ, PostgreSQL, Supabase, Next.js, React, Tailwind CSS, TensorFlow, scikit-learn, YOLOv8, Docker, Kubernetes, OpenShift, Jenkins, GitHub Actions, GitLab, Git, Google Cloud, Cloudflare, Vercel" />
   </picture>
 </p>
 
