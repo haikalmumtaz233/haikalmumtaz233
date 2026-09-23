@@ -1,96 +1,39 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Haikal%20Mumtaz&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00ADD8,100:4F46E5&text=Haikal%20Mumtaz&fontSize=74&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Haikal Mumtaz" />
 </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Application+Developer;Data+Scientist+Associate;TensorFlow+Certified+Developer" alt="Typing SVG" />
-</h1>
-
-## About Me
-
-Passionate **Software Engineer** and **AI Enthusiast** with professional experience in building responsive web applications and machine learning models.
-
-- **Current Role:** Application Developer Jr. at **PT Mitra Integrasi Informatika**.
-- **Location:** Jakarta, Indonesia (Open for Remote/Hybrid).
-- **Connect:** [LinkedIn](https://www.linkedin.com/in/haikal-mumtaz/) · [Instagram](https://instagram.com/haikal_mumtaz23)
-
-## Stacks & Tools I've Used
-
-<table align="center">
-    <tr>
-        <td width="200" align="center"><b>Languages</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-            <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-            <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><b>Frontend</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-            <img src="https://img.shields.io/badge/PrimeVue-10B981?style=flat&logo=primevue&logoColor=white" />
-            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-             <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><b>Backend</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-            <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" />
-            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><b>Databases</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><b>Data Science & AI</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-            <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white" />
-            <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-            <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-            <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><b>Tools & DevOps</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-            <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-            <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" />
-        </td>
-    </tr>
-</table>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=500&lines=Application+Developer+Jr.;Fullstack+Engineer;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
-    <b>Let's connect and build something impactful! 🚀</b><br/>
-    <a href="https://haikalmumtaz.com">haikalmumtaz.com</a>
+  <a href="https://haikalmumtaz.com"><img src="https://img.shields.io/badge/haikalmumtaz.com-00ADD8?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/haikal-mumtaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/haikal_mumtaz23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=haikalmumtaz233&style=for-the-badge&color=4F46E5&label=Profile+views" alt="Profile views" />
+</p>
+
+<br />
+
+```go
+var haikal = Engineer{
+	Role:      "Application Developer Jr. @ PT. Bank Negara Indonesia (Persero) Tbk.",
+	Base:      "Jakarta, Indonesia",
+	Builds:    []string{"microservices", "web apps", "computer vision models"},
+	Certified: []string{"TensorFlow Developer"},
+	OpenTo:    []string{"remote", "hybrid"},
+}
+```
+
+<h3 align="center">Toolbox</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalmumtaz233/haikalmumtaz233/main/assets/toolbox-dark.svg" />
+    <img src="https://raw.githubusercontent.com/haikalmumtaz233/haikalmumtaz233/main/assets/toolbox-light.svg" alt="Go, TypeScript, JavaScript, Java, Kotlin, Python, PHP, C++, Lua, R, Spring, Gin, Express, Laravel, FastAPI, Flask, Next.js, React, Vue, Flutter, Tailwind CSS, shadcn/ui, PrimeVue, Bootstrap, Thymeleaf, Vite, PostgreSQL, MySQL, MongoDB, Firebase, RabbitMQ, TensorFlow, Keras, scikit-learn, pandas, Ultralytics, Docker, Kubernetes, OpenShift, Jenkins, GitLab, GitHub Actions, Google Cloud, Cloudflare, Vercel, Postman, Linux, Git" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,100:00ADD8" width="100%" alt="Footer" />
 </p>
